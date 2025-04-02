@@ -68,10 +68,6 @@ const About = () => {
                 className="w-full h-full object-cover"
               />
             </div>
-            <div className="absolute -bottom-4 -right-4 bg-white p-4 rounded-lg shadow-lg">
-              <p className="text-lg font-bold text-primary">2+ Years</p>
-              <p className="text-sm text-muted-foreground">Development Experience</p>
-            </div>
           </div>
         </div>
       </div>

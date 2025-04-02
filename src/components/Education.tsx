@@ -21,7 +21,7 @@ const Education = () => {
               </div>
               <div className="flex items-center text-sm text-primary font-medium mt-2 md:mt-0">
                 <CalendarDays size={14} className="mr-1" />
-                2020 - 2024
+                2021 - 2025
               </div>
             </div>
             
