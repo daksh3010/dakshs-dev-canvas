@@ -8,7 +8,7 @@ const Hero = () => {
         <div className="text-center max-w-3xl mx-auto animate-fade-in">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground leading-tight mb-6 font-display">
             Hi, I'm <span className="text-primary">Daksh</span>
-            <br />Software Developer
+            <br />Innovative Software Developer
           </h1>
           <p className="text-lg md:text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
             I build modern web applications with a focus on performance, 
@@ -16,14 +16,8 @@ const Hero = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a 
-              href="#projects" 
-              className="bg-primary text-white px-6 py-3 rounded-md hover:bg-primary/90 transition-colors text-lg font-medium"
-            >
-              View My Work
-            </a>
-            <a 
               href="#contact" 
-              className="bg-secondary text-foreground px-6 py-3 rounded-md hover:bg-secondary/80 transition-colors text-lg font-medium"
+              className="bg-primary text-white px-6 py-3 rounded-md hover:bg-primary/90 transition-colors text-lg font-medium"
             >
               Contact Me
             </a>

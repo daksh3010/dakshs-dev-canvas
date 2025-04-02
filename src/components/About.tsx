@@ -61,11 +61,11 @@ const About = () => {
             </ul>
           </div>
           <div className="relative">
-            <div className="aspect-square bg-gradient-to-tr from-primary/20 to-primary/5 rounded-2xl overflow-hidden shadow-lg">
+            <div className="aspect-square rounded-2xl overflow-hidden shadow-lg">
               <img
-                src="https://images.unsplash.com/photo-1605379399642-870262d3d051?q=80&w=2812&auto=format&fit=crop"
-                alt="Programmer working on code"
-                className="w-full h-full object-cover mix-blend-overlay opacity-90"
+                src="/lovable-uploads/465a3066-fca9-4dc0-82e7-cf86846d2d2c.png"
+                alt="Daksh's profile"
+                className="w-full h-full object-cover"
               />
             </div>
             <div className="absolute -bottom-4 -right-4 bg-white p-4 rounded-lg shadow-lg">

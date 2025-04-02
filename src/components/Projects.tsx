@@ -1,32 +1,22 @@
-
 import { ExternalLink, Github } from "lucide-react";
 
 const projects = [
   {
     id: 1,
-    title: "E-Commerce Platform",
-    description: "A full-stack e-commerce application with product listing, cart functionality, user authentication, and payment integration.",
-    image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    tags: ["React", "Node.js", "Express", "MongoDB", "Stripe"],
-    liveLink: "#",
+    title: "Creative Blogs",
+    description: "A blogging platform that allows users to create, share, and discover creative content with a clean, user-friendly interface and robust backend functionality.",
+    image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    tags: ["React", "Node.js", "Express", "MongoDB"],
+    liveLink: "https://creativeblogs.onrender.com",
     githubLink: "#",
   },
   {
     id: 2,
-    title: "Task Management App",
-    description: "A collaborative task management application with real-time updates, task assignment, and progress tracking.",
-    image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    tags: ["React", "Firebase", "Tailwind CSS"],
-    liveLink: "#",
-    githubLink: "#",
-  },
-  {
-    id: 3,
-    title: "Weather Dashboard",
-    description: "A weather application that provides detailed forecasts, historical data visualization, and location-based weather alerts.",
-    image: "https://images.unsplash.com/photo-1592210454359-9043f067919b?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    tags: ["JavaScript", "HTML", "CSS", "Weather API"],
-    liveLink: "#",
+    title: "Blink Chat",
+    description: "A real-time messaging application featuring instant messaging, user authentication, and responsive design for seamless communication across devices.",
+    image: "https://images.unsplash.com/photo-1611606063065-ee7946f0787a?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    tags: ["React", "Firebase", "Tailwind CSS", "Socket.io"],
+    liveLink: "https://blink-chat-w623.onrender.com/login",
     githubLink: "#",
   },
 ];
