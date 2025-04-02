@@ -23,7 +23,7 @@ const Hero = () => {
               Contact Me
             </a>
             <a 
-              href="https://drive.google.com/file/d/1NSveiriWKkU6fmb7cmZiE5DFHUZ1kyms/view?usp=sharing"
+              href="https://drive.google.com/file/d/17HMre1_YsVAWoa2iOSrZCv_84BO8n-c8/view?usp=sharing"
               target="_blank" 
               rel="noopener noreferrer"
               className="bg-secondary text-secondary-foreground px-6 py-3 rounded-md hover:bg-secondary/90 transition-colors text-lg font-medium flex items-center justify-center gap-2"
