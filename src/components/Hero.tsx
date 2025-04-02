@@ -1,5 +1,6 @@
 
-import { ArrowDown } from "lucide-react";
+import { ArrowDown, Download } from "lucide-react";
+import { Button } from "./ui/button";
 
 const Hero = () => {
   return (
@@ -20,6 +21,15 @@ const Hero = () => {
               className="bg-primary text-white px-6 py-3 rounded-md hover:bg-primary/90 transition-colors text-lg font-medium"
             >
               Contact Me
+            </a>
+            <a 
+              href="https://drive.google.com/file/d/1NSveiriWKkU6fmb7cmZiE5DFHUZ1kyms/view?usp=sharing"
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="bg-secondary text-secondary-foreground px-6 py-3 rounded-md hover:bg-secondary/90 transition-colors text-lg font-medium flex items-center justify-center gap-2"
+            >
+              <Download size={20} />
+              Download CV
             </a>
           </div>
         </div>
